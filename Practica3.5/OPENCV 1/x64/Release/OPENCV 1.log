@@ -1,0 +1,39 @@
+﻿  Source.cpp
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(68,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(69,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(76,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(80,12): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(139,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(156,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(195,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(199,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(202,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(207,11): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(207,39): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(212,19): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(217,19): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(222,19): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(237,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(238,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(271,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(272,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(359,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\OPENCV 1\Source.cpp(360,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  Generating code
+  1 of 101 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OPENCV 1.vcxproj -> C:\Users\j50022283\Documents\Python\Vision Artificial\Practica3.5\x64\Release\OPENCV 1.exe
